@@ -2,8 +2,6 @@ fx_version 'adamant'
 
 game 'gta5'
 
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
-
 description 'REDESIGN V2 by Re1ease#0001'
 
 client_script 'client/main.lua'
